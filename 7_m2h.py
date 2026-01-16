@@ -1,8 +1,8 @@
 def m2h():
 
-    minutes = float (input("Enter the Hour You Want to convert to minutes:"))
+    minutes = float (input("Enter the minutes You Want to convert to hour:"))
 
-    hour = minutes /60
+    hour = minutes/60
 
     print(minutes, " minutes converted to hour are := " , hour)
 
